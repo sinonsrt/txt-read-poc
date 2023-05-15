@@ -1,0 +1,17 @@
+{
+  "name": "POC-TXT-READ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Lucas Marchiori",
+  "scripts": {
+    "dev": "tsx watch index.ts"
+  },
+  "dependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4"
+  }
+}
